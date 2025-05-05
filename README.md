@@ -9,10 +9,6 @@ This project is a responsive educational website built using **HTML**, **CSS**, 
 *(https://dev-web-projet.netlify.app/)*
 
 
-## 📸 Screenshot
-
-![Screenshot]([assets/Screenshot_homePage.png](https://github.com/ki1lux/ProjectOfDAW/blob/8dfb4b025e3304a60edac6f4e4596c66a9db7654/Screenshot_homePage.png)) <!-- Replace with actual path -->
-
 
 
 ## ✨ Features
