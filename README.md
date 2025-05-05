@@ -11,7 +11,7 @@ This project is a responsive educational website built using **HTML**, **CSS**, 
 
 ## 📸 Screenshot
 
-![Screenshot](./assets/screenshot_4.png) <!-- Replace with actual path -->
+![Screenshot](assets/Screenshot_homePage.png) <!-- Replace with actual path -->
 
 
 
