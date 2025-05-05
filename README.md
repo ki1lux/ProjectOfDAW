@@ -8,6 +8,13 @@ This project is a responsive educational website built using **HTML**, **CSS**, 
 
 *(https://dev-web-projet.netlify.app/)*
 
+
+## 📸 Screenshot
+
+![Screenshot](./assets/screenshot_4.png) <!-- Replace with actual path -->
+
+
+
 ## ✨ Features
 
 - Clean and responsive design
