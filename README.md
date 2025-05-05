@@ -22,7 +22,7 @@ This project is a responsive educational website built using **HTML**, **CSS**, 
 
 - **HTML5**
 - **CSS3**
-- **JavaScript **
+- **JavaScript (Vanilla)**
 
 ## 📁 Project Structure
 
